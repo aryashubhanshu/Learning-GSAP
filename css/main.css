@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;400;700;900&display=swap");
+body {
+  margin: 0;
+  font-family: "Inter", sans-serif;
+}
+
+section {
+  height: 100vh;
+  padding: 0 clamp(4rem, 12vw, 20rem);
+  display: grid;
+  place-content: center;
+}
+section p {
+  font-size: clamp(2rem, 5vw, 8rem);
+}
+section:nth-of-type(1) {
+  border-bottom: 1px solid black;
+}
+section:nth-of-type(3) {
+  background-color: #ffff00;
+}
+section:nth-of-type(4) {
+  background: rgb(29, 29, 29);
+  color: white;
+}/*# sourceMappingURL=main.css.map */
