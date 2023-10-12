@@ -11,5 +11,6 @@ Learned how ScrollTrigger works.
 In this example, have used splitType libraray for splitting each characters and applying animations to them individually.
 
 <br>
-<br>
 Used lenis for smooth scrolling.
+<br>
+Check out @https://aryashubhanshu.github.io/Learning-GSAP/
